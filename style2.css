@@ -1,0 +1,30 @@
+table,th{
+    border: 2px solid rebeccapurple;
+    border-collapse: collapse;
+}
+th,td{
+    border: 2px solid rebeccapurple;
+    border-collapse: collapse;
+
+
+
+}
+*{
+    max-width: 70px;
+    margin: auto;
+  }
+  
+  /*body {
+      min-width: 50px;
+  }*/
+  
+  div {
+    border-radius: 5px;
+  }
+#header {
+    height: 40px;
+    width: 100%;
+    background-color: #ffcccc;
+    position: fixed;
+    z-index: 1;
+  }
